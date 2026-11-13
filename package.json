@@ -1,0 +1,30 @@
+{
+  "name": "homeschool-reading-log",
+  "version": "1.0.0",
+  "description": "Reading log application. Perfect for Homeschooling and Book-It! records.",
+  "keywords": [
+    "book",
+    "reading",
+    "log",
+    "homeschool"
+  ],
+  "homepage": "https://github.com/Betula-LLC/homeschool-reading-log#readme",
+  "bugs": {
+    "url": "https://github.com/Betula-LLC/homeschool-reading-log/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Betula-LLC/homeschool-reading-log.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Gage Geigle",
+  "type": "commonjs",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  }
+}
